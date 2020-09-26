@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600px" height="540px" viewBox="0 0 600 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>hero-ai</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="100%" gradientTransform="translate(1.000000,1.000000),scale(1.000000,0.333333),rotate(-90.000000),translate(-1.000000,-1.000000)" id="radialGradient-1">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="141.421356%" id="radialGradient-2">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="0%" cy="50%" fx="0%" fy="50%" r="50%" gradientTransform="translate(0.000000,0.500000),scale(1.000000,0.606519),rotate(90.000000),translate(-0.000000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="translate(1.000000,0.000000),scale(0.333333,1.000000),rotate(180.000000),translate(-1.000000,-0.000000)" id="radialGradient-4">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="0%" cy="100%" fx="0%" fy="100%" r="100%" id="radialGradient-5">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="111.803399%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.200000),rotate(84.289407),translate(-0.500000,-0.000000)" id="radialGradient-6">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="100%" gradientTransform="translate(1.000000,1.000000),scale(0.333333,1.000000),rotate(180.000000),translate(-1.000000,-1.000000)" id="radialGradient-7">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="111.803399%" gradientTransform="translate(0.500000,0.000000),scale(0.552713,1.000000),rotate(47.866617),translate(-0.500000,-0.000000)" id="radialGradient-8">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="141.421356%" id="radialGradient-9">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="93.2430619%" cy="93.0079245%" fx="93.2430619%" fy="93.0079245%" r="131.69944%" gradientTransform="translate(0.932431,0.930079),scale(0.999999,1.000000),rotate(-135.072363),translate(-0.932431,-0.930079)" id="radialGradient-10">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="0%" fx="100%" fy="0%" r="100%" gradientTransform="translate(1.000000,0.000000),scale(0.125000,1.000000),rotate(180.000000),translate(-1.000000,-0.000000)" id="radialGradient-11">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="50%" fx="100%" fy="50%" r="111.803399%" gradientTransform="translate(1.000000,0.500000),scale(1.000000,0.552739),rotate(137.867964),translate(-1.000000,-0.500000)" id="radialGradient-12">
+            <stop stop-color="#4094ED" offset="0%"></stop>
+            <stop stop-color="#69D1EE" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AI" transform="translate(-765.000000, -184.000000)">
+            <g id="hero" transform="translate(0.000000, 164.000000)">
+                <g id="bkg">
+                    <g id="hero-ai" transform="translate(765.000000, 20.000000)">
+                        <g id="Group-2" transform="translate(0.000000, 195.000000)" fill-rule="nonzero">
+                            <polygon id="Stroke-1" fill="url(#radialGradient-1)" points="480 0 480 90 510 90 510 0"></polygon>
+                            <polygon id="Stroke-2" fill="url(#radialGradient-2)" points="325.606602 340.606602 415.606602 250.606602 394.393398 229.393398 304.393398 319.393398"></polygon>
+                            <polygon id="Stroke-3" fill="url(#radialGradient-3)" points="415.606602 70.6066017 394.393398 49.3933983 304.393398 139.393398 300 150 300 240 330 240 330 156.213203"></polygon>
+                            <polygon id="Stroke-5" fill="url(#radialGradient-4)" points="75 45 165 45 165 15 75 15"></polygon>
+                            <polygon id="Stroke-6" fill="url(#radialGradient-5)" points="30 90 0 90 0 180 15 195 105 195 105 165 30 165"></polygon>
+                            <polygon id="Stroke-7" fill="url(#radialGradient-6)" points="210 90 210 240 240 240 240 90"></polygon>
+                            <polygon id="Stroke-19" fill="url(#radialGradient-7)" points="435 195 525 195 525 165 435 165"></polygon>
+                            <polygon id="Stroke-23" fill="url(#radialGradient-8)" points="184.393398 340.606602 205.606602 319.393398 115.606602 229.393398 94.3933983 229.393398 4.39339828 319.393398 25.6066017 340.606602 105 261.213203"></polygon>
+                        </g>
+                        <polygon id="Fill-8" fill="#4094ED" points="90 375 105 390 120 375 105 360"></polygon>
+                        <polygon id="Fill-9" fill="#4094ED" points="480 195 495 210 510 195 495 180"></polygon>
+                        <polygon id="Fill-10" fill="#4094ED" points="300 435 315 450 330 435 315 420"></polygon>
+                        <polygon id="Fill-11" fill="#4094ED" points="60 225 75 240 90 225 75 210"></polygon>
+                        <path d="M15,360 C23.2787,360 30,366.721 30,375 C30,383.279 23.2787,390 15,390 C6.7213,390 0,383.279 0,375 C0,366.721 6.7213,360 15,360 Z" id="Fill-12" fill="#235280"></path>
+                        <path d="M315,330 C323.279,330 330,336.721 330,345 C330,353.279 323.279,360 315,360 C306.721,360 300,353.279 300,345 C300,336.721 306.721,330 315,330 Z" id="Fill-13" fill="#69D1EE"></path>
+                        <path d="M405,240 C413.279,240 420,246.721 420,255 C420,263.279 413.279,270 405,270 C396.721,270 390,263.279 390,255 C390,246.721 396.721,240 405,240 Z" id="Fill-14" fill="#FF7452"></path>
+                        <path d="M495,270 C503.279,270 510,276.721 510,285 C510,293.279 503.279,300 495,300 C486.721,300 480,293.279 480,285 C480,276.721 486.721,270 495,270 Z" id="Fill-15" fill="#235280"></path>
+                        <path d="M225,420 C233.279,420 240,426.721 240,435 C240,443.2787 233.279,450 225,450 C216.721,450 210,443.2787 210,435 C210,426.721 216.721,420 225,420 Z" id="Fill-16" fill="#4094ED"></path>
+                        <path d="M15,270 C23.2787,270 30,276.721 30,285 C30,293.279 23.2787,300 15,300 C6.7213,300 0,293.279 0,285 C0,276.721 6.7213,270 15,270 Z" id="Fill-17" fill="#FF7452"></path>
+                        <path d="M165,210 C173.279,210 180,216.721 180,225 C180,233.279 173.279,240 165,240 C156.721,240 150,233.279 150,225 C150,216.721 156.721,210 165,210 Z" id="Fill-18" fill="#FF7452"></path>
+                        <polygon id="Stroke-1" fill="url(#radialGradient-9)" fill-rule="nonzero" points="154.393398 145.213602 274.393398 265.213602 295.606602 244.000398 175.606602 124.000398"></polygon>
+                        <polygon id="Fill-2" fill="#4094ED" points="154.3934 124 154.3934 145.214 175.6066 145.214 175.6066 124"></polygon>
+                        <polygon id="Fill-3" fill="#235280" points="274.393 244.0004 274.393 265.2136 295.607 265.2136 295.607 244.0004"></polygon>
+                        <polygon id="Fill-20" fill="#4094ED" points="420 375 435 390 450 375 435 360"></polygon>
+                        <path d="M525,360 C533.279,360 540,366.721 540,375 C540,383.279 533.279,390 525,390 C516.721,390 510,383.279 510,375 C510,366.721 516.721,360 525,360 Z" id="Fill-21" fill="#FF7452"></path>
+                        <path d="M225,270 C233.279,270 240,276.721 240,285 C240,293.279 233.279,300 225,300 C216.721,300 210,293.279 210,285 C210,276.721 216.721,270 225,270 Z" id="Fill-22" fill="#FF7452"></path>
+                        <path d="M15,510 C23.2787,510 30,516.7213 30,525 C30,533.2787 23.2787,540 15,540 C6.7213,540 0,533.2787 0,525 C0,516.7213 6.7213,510 15,510 Z" id="Fill-24" fill="#FFFFFF"></path>
+                        <polygon id="Fill-25" fill="#4094ED" points="184.393 514.3934 184.393 535.6066 205.607 535.6066 205.607 514.3934"></polygon>
+                        <polygon id="Fill-26" fill="#4094ED" points="304.393 514.3934 304.393 535.6066 325.607 535.6066 325.607 514.3934"></polygon>
+                        <polygon id="Fill-27" fill="#69D1EE" points="94.3934 445.6066 115.6066 445.6066 115.6066 424.3934 94.3934 424.3934"></polygon>
+                        <polygon id="Fill-28" fill="#FFFFFF" points="394.393 445.6066 415.6062 445.6066 415.6062 424.3934 394.393 424.3934"></polygon>
+                        <polygon id="Stroke-1" fill="url(#radialGradient-10)" fill-rule="nonzero" points="595.609595 184.620191 445.603595 34.6143912 424.390405 55.8276088 574.396405 205.833409"></polygon>
+                        <path d="M424.39,34.626 C418.537,40.48 418.537,49.985 424.39,55.839 C430.244,61.693 439.75,61.693 445.604,55.839 C451.458,49.985 451.458,40.48 445.604,34.626 C439.75,28.772 430.244,28.772 424.39,34.626 Z" id="Fill-2" fill="#4094ED"></path>
+                        <path d="M574.396,184.6202 C568.542,190.4741 568.542,199.9795 574.396,205.8334 C580.25,211.6873 589.756,211.6873 595.61,205.8334 C601.463,199.9795 601.463,190.4741 595.61,184.6202 C589.756,178.7663 580.25,178.7663 574.396,184.6202 Z" id="Fill-3" fill="#235280"></path>
+                        <polygon id="Stroke-4" fill="url(#radialGradient-11)" fill-rule="nonzero" points="15 60.224 255 60.224 255 30.224 15 30.224"></polygon>
+                        <polygon id="Fill-5" fill="#4094ED" points="15 60.224 30 45.224 15 30.224 0 45.224"></polygon>
+                        <path d="M240,45.224 C240,36.945 246.721,30.224 255,30.224 C263.279,30.224 270,36.945 270,45.224 C270,53.503 263.279,60.224 255,60.224 C246.721,60.224 240,53.503 240,45.224 Z" id="Fill-6" fill="#235280"></path>
+                        <polygon id="Stroke-7" fill="url(#radialGradient-12)" fill-rule="nonzero" points="383.789089 105.215354 304.390575 184.611222 325.603425 205.824778 415.609425 115.821778 415.609071 94.607868 325.603071 4.61086797 304.390929 25.825132"></polygon>
+                        <polygon id="Fill-8" fill="#4094ED" points="325.604 184.6114 325.604 205.8246 304.39 205.8246 304.39 184.6114"></polygon>
+                        <path d="M394.396,94.608 C388.542,100.462 388.542,109.968 394.396,115.822 C400.25,121.6756 409.756,121.6756 415.61,115.822 C421.463,109.968 421.463,100.462 415.61,94.608 C409.756,88.754 400.25,88.754 394.396,94.608 Z" id="Fill-9" fill="#FFFFFF"></path>
+                        <polygon id="Fill-10" fill="#4094ED" points="480 195.2239 495 210.2239 510 195.2239 495 180.2239"></polygon>
+                        <path d="M304.39,4.614 C298.537,10.468 298.537,19.974 304.39,25.828 C310.244,31.681 319.75,31.681 325.604,25.828 C331.458,19.974 331.458,10.468 325.604,4.614 C319.75,-1.24 310.244,-1.24 304.39,4.614 Z" id="Fill-12" fill="#FF7452"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

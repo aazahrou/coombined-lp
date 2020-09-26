@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="900"
+   height="900"
+   viewBox="0 0 238.12499 238.12501"
+   version="1.1"
+   id="svg937"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="new_favicon.svg"
+   inkscape:export-filename="/home/abderrahim/Desktop/favicon.png"
+   inkscape:export-xdpi="17.066668"
+   inkscape:export-ydpi="17.066668">
+  <defs
+     id="defs931" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-199.56033"
+     inkscape:cy="600.38237"
+     inkscape:document-units="px"
+     inkscape:current-layer="g74"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="685"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata934">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-58.874983)">
+    <g
+       id="g74"
+       transform="matrix(2.6532388,0,0,2.6532388,-137.50166,-169.89608)">
+      <path
+         style="fill:#ffc400;fill-opacity:1;stroke-width:4.68749905"
+         d="M 450 0 A 449.9999 449.9999 0 0 0 0 450 A 449.9999 449.9999 0 0 0 450 900 A 449.9999 449.9999 0 0 0 685.03711 833.08203 L 585.84375 717.4668 A 299.9999 299.9999 0 0 1 450 750 A 299.9999 299.9999 0 0 1 150 450 A 299.9999 299.9999 0 0 1 450 150 A 299.9999 299.9999 0 0 1 569.37305 174.91211 L 666.88867 56.28125 A 449.9999 449.9999 0 0 0 450 0 z M 791.25 156.95703 L 693.67773 275.65625 A 299.9999 299.9999 0 0 1 750 450 A 299.9999 299.9999 0 0 1 703.81836 609.25391 L 804.625 726.75 A 449.9999 449.9999 0 0 0 900 450 A 449.9999 449.9999 0 0 0 791.25 156.95703 z M 450 300 A 149.99996 149.99996 0 0 0 300 450 A 149.99996 149.99996 0 0 0 450 600 A 149.99996 149.99996 0 0 0 600 450 A 149.99996 149.99996 0 0 0 450 300 z "
+         transform="matrix(0.09972089,0,0,0.09972089,51.82408,86.223322)"
+         id="circle862-5" />
+    </g>
+  </g>
+</svg>

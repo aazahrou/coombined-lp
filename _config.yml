@@ -1,0 +1,21 @@
+title:             Coombined - Solution combinee de gestion d'agences de voyages.
+email:             coombined@gmail.com
+description: ""
+author: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
+
+exclude:
+  - LICENSE
+  - README.md
+  - fresh.gif
+
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: ""
+pinterest_username: ""
+instagram_username: ""
